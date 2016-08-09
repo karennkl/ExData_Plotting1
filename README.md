@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 There are 8 files for the Course Project 1: 4 png pictures (480 x 480 pixels) and 4 scripts to generate each.
 
@@ -9,13 +9,13 @@ To run this script you need to to the following:
   3. Extract the data into your the same working directory;
   4. Run the scripts
 
-# Data Description
+## Dataset Description
 
-Measurements of electric power consumption in one household with a 
-one-minute sampling rate over a period of almost 4 years. Different 
-electrical quantities and some sub-metering values are available.
+The dataset showcases measurements of electric power consumption in one household with a 
+one-minute sampling rate over a period of almost 4 years. Different electrical quantities 
+and some sub-metering values are available.
 
-The following descriptions of the 9 variables in the dataset 
+The following are descriptions of the 9 variables in the dataset 
 
 <ol>
 <li><b>Date</b>: Date in format dd/mm/yyyy </li>
